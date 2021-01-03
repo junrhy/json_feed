@@ -1,20 +1,135 @@
 {
-  "type": "plants",
-  "pronunciations": [
+ "type":"plants",
+ "pronunciations": [
     {
-      "value": "orchids",
-      "image_url": "",
-      "sound_url": ""
+        "value":"aster",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/aster--_us_1.mp3"
     },
     {
-      "value": "gumamela",
-      "image_url": "",
-      "sound_url": ""
+        "value":"beli",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/beli--_us_1.mp3"
     },
     {
-      "value": "rose",
-      "image_url": "",
-      "sound_url": ""
+        "value":"camellia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/camellia--_us_1.mp3"
+    },
+    {
+        "value":"dahia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/dahia--_us_1.mp3"
+    },
+    {
+        "value":"euphorbia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/euphorbia--_us_1.mp3"
+    },
+    {
+        "value":"freesia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/freesia--_us_1.mp3"
+    },
+    {
+        "value":"gardenia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/gardenia--_us_1.mp3"
+    },
+    {
+        "value":"hibiscus",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/hibiscus--_us_1.mp3"
+    },
+    {
+        "value":"iris",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/iris--_us_1.mp3"
+    },
+    {
+        "value":"jasmine",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/jasmine--_us_1.mp3"
+    },
+    {
+        "value":"kalmia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/kalmia--_us_1.mp3"
+    },
+    {
+        "value":"lily",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/lily--_us_1.mp3"
+    },
+    {
+        "value":"marigold",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/marigold--_us_1.mp3"
+    },
+    {
+        "value":"narcissus",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/narcissus--_us_1.mp3"
+    },
+    {
+        "value":"orchid",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/orchid--_us_1.mp3"
+    },
+    {
+        "value":"petunia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/petunia--_us_1.mp3"
+    },
+    {
+        "value":"quince",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/quince--_us_1.mp3"
+    },
+    {
+        "value":"rose",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/rose--_us_1.mp3"
+    },
+    {
+        "value":"sunflower",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/sunflower--_us_1.mp3"
+    },
+    {
+        "value":"tulip",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/tulip--_us_1.mp3"
+    },
+    {
+        "value":"ursinia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/ursinia--_us_1.mp3"
+    },
+    {
+        "value":"violets",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/violets--_us_1.mp3"
+    },
+    {
+        "value":"waterlily",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/waterlily--_us_1.mp3"
+    },
+    {
+        "value":"xylosma",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/xylosma--_us_1.mp3"
+    },
+    {
+        "value":"yellow bells",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/yellowbells--_us_1.mp3"
+    },
+    {
+        "value":"zinnia",
+        "image_url":"",
+        "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/zinnia--_us_1.mp3"
     }
   ]
 }

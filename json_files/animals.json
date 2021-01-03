@@ -1,20 +1,130 @@
 {
-  "type": "animals",
-  "pronunciations": [
+ "type":"animals",
+ "pronunciations": [
     {
-      "value": "cat",
-      "image_url": "",
-      "sound_url": ""
+     "value":"alligator",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/aligator--_us_1.mp3"
+    },  
+    {
+     "value":"bear",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/bear--_us_1.mp3"
     },
     {
-      "value": "dog",
-      "image_url": "",
-      "sound_url": ""
+     "value":"cat",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/cat--_us_1.mp3"
     },
     {
-      "value": "rabbit",
-      "image_url": "",
-      "sound_url": ""
+     "value":"dog",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/dog--_us_1.mp3"
+    },
+    {
+     "value":"elephant",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/elephant--_us_1.mp3"
+    },
+    {
+     "value":"flamingo",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/flamingo--_us_1.mp3"
+    },
+    {
+     "value":"giraffe",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/giraffe--_us_1.mp3"
+    },
+    {
+     "value":"horse",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/horse--_us_1.mp3"
+    },
+    {
+     "value":"igvana",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/igvana--_us_1.mp3"
+    },
+    {
+     "value":"jellyfish",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/jellyfish--_us_1.mp3"
+    },
+    {
+     "value":"kangaroo",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/kangaroo--_us_1.mp3"
+    },
+    {
+     "value":"lion",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/lion--_us_1.mp3"
+    },
+    {
+     "value":"monkey",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/monkey--_us_1.mp3"
+    },
+    {
+     "value":"narwhal",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/narwhal--_us_1.mp3"
+    },
+    {
+     "value":"owl",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/owl--_us_1.mp3"
+    },
+    {
+     "value":"panda",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/panda--_us_1.mp3"
+    },
+    {
+     "value":"raccoon",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/raccoon--_us_1.mp3"
+    },
+    {
+     "value":"squirrel",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/squirrel--_us_1.mp3"
+    },
+    {
+     "value":"tiger",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/tiger--_us_1.mp3"
+    },
+    {
+     "value":"unicorn",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/unicorn--_us_1.mp3"
+    },
+    {
+     "value":"vampire bat",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/vampirebat--_us_1.mp3"
+    },
+    {
+     "value":"worm",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/worm--_us_1.mp3"
+    },
+    {
+     "value":"xenarthra",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/xenarthra--_us_1.mp3"
+    },
+    {
+     "value":"yak",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/yak--_us_1.mp3"
+    },
+    {
+     "value":"zebra",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/zebra--_us_1.mp3"
     }
   ]
 }
