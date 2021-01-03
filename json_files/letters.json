@@ -1,0 +1,20 @@
+{
+  "type": "letters",
+  "pronunciations": [
+    {
+      "value": "a",
+      "image_url": "",
+      "sound_url": ""
+    },
+    {
+      "value": "b",
+      "image_url": "",
+      "sound_url": ""
+    },
+    {
+      "value": "c",
+      "image_url": "",
+      "sound_url": ""
+    }
+  ]
+}

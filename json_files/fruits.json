@@ -1,0 +1,20 @@
+{
+  "type": "fruits",
+  "pronunciations": [
+    {
+      "value": "apple",
+      "image_url": "",
+      "sound_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/apple--_us_1.mp3"
+    },
+    {
+      "value": "banana",
+      "image_url": "",
+      "sound_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/banana--_us_1.mp3"
+    },
+    {
+      "value": "grapes",
+      "image_url": "",
+      "sound_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/grape--_us_1.mp3"
+    }
+  ]
+}

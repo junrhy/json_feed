@@ -1,0 +1,20 @@
+{
+  "type": "numbers",
+  "pronunciations": [
+    {
+      "value": "one",
+      "image_url": "",
+      "sound_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/one--_us_1.mp3"
+    },
+    {
+      "value": "two",
+      "image_url": "",
+      "sound_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/two--_us_1.mp3"
+    },
+    {
+      "value": "three",
+      "image_url": "",
+      "sound_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/three--_us_1.mp3"
+    }
+  ]
+}

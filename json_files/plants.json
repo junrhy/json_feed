@@ -1,0 +1,20 @@
+{
+  "type": "plants",
+  "pronunciations": [
+    {
+      "value": "orchids",
+      "image_url": "",
+      "sound_url": ""
+    },
+    {
+      "value": "gumamela",
+      "image_url": "",
+      "sound_url": ""
+    },
+    {
+      "value": "rose",
+      "image_url": "",
+      "sound_url": ""
+    }
+  ]
+}
