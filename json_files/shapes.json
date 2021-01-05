@@ -27,6 +27,11 @@
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/circle--_us_1.mp3"
     },
     {
+     "value":"diamond",
+     "image_url":"",
+     "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/diamond--_us_1.mp3"
+    },
+    {
      "value":"square",
      "image_url":"",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/square--_us_1.mp3"
