@@ -3,132 +3,132 @@
  "pronunciations": [
     {
         "value":"aster",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/aster.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/aster--_us_1.mp3"
     },
     {
         "value":"beli",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/beli.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/beli--_us_1.mp3"
     },
     {
         "value":"camellia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/camellia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/camellia--_us_1.mp3"
     },
     {
         "value":"dahia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/dahia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/dahia--_us_1.mp3"
     },
     {
         "value":"euphorbia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/euphorbia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/euphorbia--_us_1.mp3"
     },
     {
         "value":"freesia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/freesia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/freesia--_us_1.mp3"
     },
     {
         "value":"gardenia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/gardenia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/gardenia--_us_1.mp3"
     },
     {
         "value":"hibiscus",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/hibiscus.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/hibiscus--_us_1.mp3"
     },
     {
         "value":"iris",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/iris.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/iris--_us_1.mp3"
     },
     {
         "value":"jasmine",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/jasmine.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/jasmine--_us_1.mp3"
     },
     {
         "value":"kalmia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/kalmia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/kalmia--_us_1.mp3"
     },
     {
         "value":"lily",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/lily.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/lily--_us_1.mp3"
     },
     {
         "value":"marigold",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/marigold.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/marigold--_us_1.mp3"
     },
     {
         "value":"narcissus",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/narcissus.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/narcissus--_us_1.mp3"
     },
     {
         "value":"orchid",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/orchid.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/orchid--_us_1.mp3"
     },
     {
         "value":"petunia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/petunia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/petunia--_us_1.mp3"
     },
     {
         "value":"quince",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/quince.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/quince--_us_1.mp3"
     },
     {
         "value":"rose",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/rose.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/rose--_us_1.mp3"
     },
     {
         "value":"sunflower",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/sunflower.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/sunflower--_us_1.mp3"
     },
     {
         "value":"tulip",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/tulip.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/tulip--_us_1.mp3"
     },
     {
         "value":"ursinia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/ursinia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/ursinia--_us_1.mp3"
     },
     {
-        "value":"violets",
-        "image_url":"",
+        "value":"violet",
+        "image_url":"http://json-feed.junrhy.com/images/plants/violet.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/violets--_us_1.mp3"
     },
     {
         "value":"waterlily",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/waterlily.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/waterlily--_us_1.mp3"
     },
     {
         "value":"xylosma",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/xylosma.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/xylosma--_us_1.mp3"
     },
     {
         "value":"yellow bells",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/yellow bells.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/yellowbells--_us_1.mp3"
     },
     {
         "value":"zinnia",
-        "image_url":"",
+        "image_url":"http://json-feed.junrhy.com/images/plants/zinnia.jpg",
         "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/zinnia--_us_1.mp3"
     }
   ]

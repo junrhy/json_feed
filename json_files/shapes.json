@@ -3,112 +3,112 @@
  "pronunciations": [
     {
      "value":"triangle",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/triangle.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/triangle--_us_1.mp3"
     },
     {
      "value":"right triangle",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/right triangle.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/righttriangle--_us_1.mp3"
     },
     {
      "value":"rectangle",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/rectangle.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/rectangle--_us_1.mp3"
     },
     {
      "value":"parallelogram",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/parallelogram.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/parallelogram--_us_1.mp3"
     },
     {
      "value":"circle",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/circle.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/circle--_us_1.mp3"
     },
     {
      "value":"diamond",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/diamond.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/diamond--_us_1.mp3"
     },
     {
      "value":"square",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/square.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/square--_us_1.mp3"
     },
     {
      "value":"rhombus",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/rhombus.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/rhombus--_us_1.mp3"
     },
     {
      "value":"oval",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/oval.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/oval--_us_1.mp3"
     },
     {
      "value":"pentagon",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/pentagon.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/pentagon--_us_1.mp3"
     },
     {
      "value":"hexagon",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/hexagon.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/hexagon--_us_1.mp3"
     },
     {
      "value":"heptagon",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/heptagon.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/heptagon--_us_1.mp3"
     },
     {
      "value":"octagon",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/octagon.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/octagon--_us_1.mp3"
     },
     {
      "value":"cylinder",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/cylinder.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/cylinder--_us_1.mp3"
     },
     {
      "value":"cube",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/cube.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/cube--_us_1.mp3"
     },
     {
      "value":"star",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/star.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/star--_us_1.mp3"
     },
     {
      "value":"heart",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/heart.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/heart--_us_1.mp3"
     },
     {
      "value":"arrow",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/arrow.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/arrow--_us_1.mp3"
     },
     {
      "value":"nonagon",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/nonagon.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/nonagon--_us_1.mp3"
     },
     {
      "value":"scalene triangle",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/scalene triangle.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/scalene triangle--_us_1.mp3"
     },
     {
      "value":"cross",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/cross.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/cross--_us_1.mp3"
     },
     {
      "value":"crescent",
-     "image_url":"",
+     "image_url":"http://json-feed.junrhy.com/images/shapes/crescent.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/crescent--_us_1.mp3"
     }
   ]

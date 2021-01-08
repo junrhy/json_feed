@@ -3,67 +3,67 @@
 "pronunciations": [
     {
       "value":"blue",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/blue.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/blue--_us_1.mp3"
     },
     {
       "value":"yellow",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/yellow.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/yellow--_us_1.mp3"
     },
     {
       "value":"red",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/red.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/red--_us_1.mp3"
     },
     {
       "value":"green",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/green.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/green--_us_1.mp3"
     },
     {
       "value":"pink",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/pink.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/pink-_us_1.mp3"
     },
     {
       "value":"violet",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/violet.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/violet--_us_1.mp3"
     },
     {
       "value":"white",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/white.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/white--_us_1.mp3"
     },
     {
       "value":"gray",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/gray.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/gray-_us_1.mp3"
     },
     {
       "value":"black",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/black.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/black--_us_1.mp3"
     },
     {
       "value":"orange",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/orange.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/orange--_us_1.mp3"
     },
     {
       "value":"brown",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/brown.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/brown--_us_1.mp3"
     },
     {
       "value":"yellow green",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/yellow green.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/yellowgreen--_us_1.mp3"
     },
     {
       "value":"sky blue",
-      "image_url":"",
+      "image_url":"http://json-feed.junrhy.com/images/colors/sky blue.jpg",
       "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/skyblue--_us_1.mp3"
     }
   ]
