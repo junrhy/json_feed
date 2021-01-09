@@ -82,17 +82,17 @@
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/panda--_us_1.mp3"
     },
     {
-     "value":"",
+     "value":"raccoon",
      "image_url":"http://json-feed.junrhy.com/images/animals/raccoon.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/raccoon--_us_1.mp3"
     },
     {
-     "value":"",
+     "value":"squirrel",
      "image_url":"http://json-feed.junrhy.com/images/animals/squirrel.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/squirrel--_us_1.mp3"
     },
     {
-     "value":"",
+     "value":"tiger",
      "image_url":"http://json-feed.junrhy.com/images/animals/tiger.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/tiger--_us_1.mp3"
     },
@@ -107,7 +107,7 @@
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/vampirebat--_us_1.mp3"
     },
     {
-     "value":"",
+     "value":"worm",
      "image_url":"http://json-feed.junrhy.com/images/animals/worm.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/worm--_us_1.mp3"
     },
@@ -117,12 +117,12 @@
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/xenarthra--_us_1.mp3"
     },
     {
-     "value":"",
+     "value":"yak",
      "image_url":"http://json-feed.junrhy.com/images/animals/yak.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/yak--_us_1.mp3"
     },
     {
-     "value":"",
+     "value":"zebra",
      "image_url":"http://json-feed.junrhy.com/images/animals/zebra.jpg",
      "sound_url":"https://ssl.gstatic.com/dictionary/static/sounds/oxford/zebra--_us_1.mp3"
     }
